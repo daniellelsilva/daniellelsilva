@@ -6,6 +6,18 @@ Sou desenvolvedora Front-end mas continuo como estudante da Trybe com o objetivo
 ### Ferramentas e tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+
+
+### Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/danielle-lsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:danielle.luisasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/ls_danielle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://daniellelsilva.github.io/react-portfolio/#/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfólio&color=green
+
+" target="_blank"></a>   
+</div>
 <!--
 **daniellelsilva/daniellelsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
