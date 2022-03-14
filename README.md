@@ -3,7 +3,8 @@
 
 Sou desenvolvedora Front-end mas continuo como estudante da Trybe com o objetivo de me tornar uma desenvolvedora Web Full Stack. 
 
-####Ferramentas e tecnologias
+###Ferramentas e tecnologias
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 <!--
 **daniellelsilva/daniellelsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
