@@ -12,7 +12,7 @@ Sou desenvolvedora Front-end mas continuo como estudante da Trybe com o objetivo
 
 <div>
 <a href="https://www.linkedin.com/in/danielle-lsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "mailto:danielle.luisasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:danielle.luisasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ls_danielle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EF476F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://daniellelsilva.github.io/react-portfolio/#/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
 </div>
