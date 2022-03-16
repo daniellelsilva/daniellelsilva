@@ -5,7 +5,7 @@ Sou desenvolvedora Front-end mas continuo como estudante da Trybe com o objetivo
 
 Um pouco sobre minha história, sou bióloga por formação mas resolvi mudar minha vida e dar uma chance para a área da tecnologia, não contava que acabaria me apaixonando, sinto que realmente me encontrei. Até o momento meu foco é Front-end, mas estou gostando de explorar os horizontes de Back-end também.
 
-Espero que goste do meus projetos, se surgir alguma dúvida ou se quiser bater um papo, é só me chamar em uma das opções de contato!
+Espero que goste dos meus projetos, se surgir alguma dúvida ou se quiser bater um papo, é só me chamar em uma das opções de contato!
 
 ### Ferramentas e tecnologias
 
