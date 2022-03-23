@@ -4,7 +4,7 @@
   <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniellelsilva&show_icons=true&theme=dracula" />
   <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelsilva&layout=compact&theme=dracula" />
 
-</div><br><br>
+</div><br>
 
 ### Meu nome é Danielle Silva
 
