@@ -1,11 +1,9 @@
 ## Olá, devs!<br>
 <div style="display:inline-block">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img height="180em" width="450em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniellelsilva&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height="180em" width="450em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelsilva&layout=compact&theme=dracula" />
-</a>
+
 </div><br><br>
 
 ### Meu nome é Danielle Silva
