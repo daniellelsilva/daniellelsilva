@@ -1,4 +1,12 @@
 ## Olá, devs!<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniellelsilva&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelsilva&layout=compact&theme=dracula" />
+</a><br><br>
+
 ### Meu nome é Danielle Silva
 
 Sou desenvolvedora Front-end mas continuo como estudante da Trybe com o objetivo de me tornar uma desenvolvedora Web Full Stack.
@@ -29,6 +37,7 @@ Espero que goste dos meus projetos, se surgir alguma dúvida ou se quiser bater 
 <a href="https://www.instagram.com/ls_danielle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EF476F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://daniellelsilva.github.io/react-portfolio/#/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
 </div>
+
 <!--
 **daniellelsilva/daniellelsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
