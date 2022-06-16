@@ -8,7 +8,7 @@
 
 ### Meu nome é Danielle Silva
 
-Sou desenvolvedora Front-end mas continuo como estudante da Trybe com o objetivo de me tornar uma desenvolvedora Web Full Stack.
+Sou desenvolvedora front-end e atuo como estagiária de Engenharia de Software na Inteligov, mas continuo estudando na Trybe com o objetivo de me tornar full stack.
 
 Um pouco sobre minha história, sou bióloga por formação mas resolvi mudar minha vida e dar uma chance para a área da tecnologia, não contava que acabaria me apaixonando, sinto que realmente me encontrei. Até o momento meu foco é Front-end, mas estou gostando de explorar os horizontes de Back-end também.
 
