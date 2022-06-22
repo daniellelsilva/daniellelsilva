@@ -30,7 +30,17 @@ Espero que goste dos meus projetos, se surgir alguma dúvida ou se quiser bater 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-</div><br>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40" />
+          
+          
+</div>
+<br>
+<br>
+
+### Estudos
+
+<p>Atualmente estou me dedicando a melhorar minhas habilidades com o ReactJS e iniciando o aprendizado de Ruby e Ruby on Rails!</p>
 
 
 ### Contatos:
