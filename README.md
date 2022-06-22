@@ -36,12 +36,11 @@ Espero que goste dos meus projetos, se surgir alguma dúvida ou se quiser bater 
           
 </div>
 <br>
-<br>
 
 ### Estudos
 
 <p>Atualmente estou me dedicando a melhorar minhas habilidades com o ReactJS e iniciando o aprendizado de Ruby e Ruby on Rails!</p>
-
+<br>
 
 ### Contatos:
 
