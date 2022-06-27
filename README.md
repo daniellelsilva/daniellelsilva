@@ -1,5 +1,5 @@
 ## Olá, devs!<br>
-<div style="display:inline-block">
+<div style="display:inline">
 
   <img height="200em" width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=daniellelsilva&show_icons=true&theme=dracula" />
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelsilva&layout=compact&theme=dracula" />
