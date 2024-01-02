@@ -42,7 +42,7 @@ Espero que goste do meu portfólio!
 
 ### Estudos
 
-<p>Atualmente estou me dedicando a melhorar minhas habilidades com o ReactJS e iniciando o aprendizado de Ruby e Ruby on Rails!</p>
+<p>Atualmente estou me dedicando a melhorar minhas habilidades com o ReactJS e NextJS além de estar iniciando o aprendizado de Ruby e Ruby on Rails!</p>
 <br>
 
 ### Contatos:
