@@ -9,7 +9,7 @@
 
 Sou desenvolvedora full-stack e atuo como Desenvolvedora Front-end na Inteligov!
 
-Atualmente estou aprimorando minhas habilidades com ReactJS, com o objetivo de me especializar em Fron-end, e aprendendo Ruby e Ruby on Rails que são muito utilizados na minha atual empresa.
+Atualmente estou aprimorando minhas habilidades com ReactJS e NextJS, com o objetivo de me especializar em Fron-end, e aprendendo Ruby e Ruby on Rails que são muito utilizados na minha atual empresa.
 
 Até o momento me identifico mais com front-end e pretendo continuar com esse foco, mas acho importante explorar os horizontes de back-end também.
 
