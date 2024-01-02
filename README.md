@@ -1,10 +1,23 @@
-## Olá, devs!<br>
+## Hi!<br>
 <div style="display:inline">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellelsilva&layout=compact&theme=dracula" />
 
 </div><br>
 
+### My name is Danielle Silva
+
+I'm a full-stack dev and work as a Front-end developer at Inteligov!
+
+I'm currently improving my skills with ReactJS and NextJS, with the aim of specializing in Fron-end, also, I'm learning Ruby and Ruby on Rails which are widely used in my current company.
+
+So far I identify more with front-end and I intend to continue with this focus, but I think it's important to explore back-end horizons as well.
+
+I hope you like my profile and portfolio!
+
+<br>
+
+#### PT/BR
 ### Meu nome é Danielle Silva
 
 Sou desenvolvedora full-stack e atuo como Desenvolvedora Front-end na Inteligov!
@@ -13,15 +26,14 @@ Atualmente estou aprimorando minhas habilidades com ReactJS e NextJS, com o obje
 
 Até o momento me identifico mais com front-end e pretendo continuar com esse foco, mas acho importante explorar os horizontes de back-end também.
 
-Fun fact: Sou bióloga por formação e por muito tempo não imaginava um futuro trabalhando na área da tecnologia! Essa impressão não durou nem o primeiro mês de curso na Trybe, foi só dar uma chance para acabar apaixonada pela área, sinto que encontrei meu caminho!
-
-Espero que goste do meu portfólio!
+Espero que goste do meu perfil e portfólio!
 <br>
 <br>
-### Ferramentas e tecnologias
+### Tools and Technologies
 
 <div style="display:inline-block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />         
@@ -40,12 +52,16 @@ Espero que goste do meu portfólio!
 </div>
 <br>
 
-### Estudos
+### Studies in progress
+
+<p>I'm currently dedicating myself to improving my skills with ReactJS and NextJS in addition to starting to learn Ruby and Ruby on Rails!</p>
+
+#### PT/BR
 
 <p>Atualmente estou me dedicando a melhorar minhas habilidades com o ReactJS e NextJS além de estar iniciando o aprendizado de Ruby e Ruby on Rails!</p>
 <br>
 
-### Contatos:
+### Contacts:
 
 <div>
 <a href="https://www.linkedin.com/in/danielle-lsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
