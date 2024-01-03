@@ -7,11 +7,18 @@
 
 ### My name is Danielle Silva
 
-I'm a full-stack dev and work as a Front-end developer at Inteligov!
+I'm a full-stack dev and work as a Front-end developer at [Inteligov](https://www.inteligov.com.br/)!
 
-I'm currently improving my skills with ReactJS and NextJS, with the aim of specializing in Fron-end, also, I'm learning Ruby and Ruby on Rails which are widely used in my current company.
+I love to work as a front-end, so, I'm currently improving my skills with ReactJS and NextJS, with the aim of specializing, also, I'm learning Ruby and Ruby on Rails which are widely used in my current company and because I think it's important to explore back-end horizons as well.
 
-So far I identify more with front-end and I intend to continue with this focus, but I think it's important to explore back-end horizons as well.
+My main stacks are:
+- ReactJS
+- NextJS
+- React Native
+- JavaScript
+- Typescript
+- NodeJS
+- CSS/SASS
 
 I hope you like my profile and portfolio!
 
@@ -20,11 +27,18 @@ I hope you like my profile and portfolio!
 #### PT/BR
 ### Meu nome é Danielle Silva
 
-Sou desenvolvedora full-stack e atuo como Desenvolvedora Front-end na Inteligov!
+Sou desenvolvedora full-stack e atuo como Desenvolvedora Front-end na [Inteligov](https://www.inteligov.com.br/)!
 
-Atualmente estou aprimorando minhas habilidades com ReactJS e NextJS, com o objetivo de me especializar em Fron-end, e aprendendo Ruby e Ruby on Rails que são muito utilizados na minha atual empresa.
+Amo trabalhar como front-end, então, atualmente estou aprimorando minhas habilidades com ReactJS e NextJS, com o objetivo de me especializar em Fron-end, além disso, estou aprendendo Ruby e Ruby on Rails que são muito utilizados na minha atual empresa e por achar importante explorar os horizontes de back-end também.
 
-Até o momento me identifico mais com front-end e pretendo continuar com esse foco, mas acho importante explorar os horizontes de back-end também.
+Minhas principais habilidades são:
+- ReactJS
+- NextJS
+- React Native
+- JavaScript
+- Typescript
+- NodeJS
+- CSS/SASS
 
 Espero que goste do meu perfil e portfólio!
 <br>
