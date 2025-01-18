@@ -7,9 +7,9 @@
 
 ### My name is Danielle Silva
 
-I'm a full-stack dev and work as a Front-end developer at [Inteligov](https://www.inteligov.com.br/)!
+I'm a full-stack dev and work as a Front-end developer at [Serasa Experian](https://www.serasaexperian.com.br)!
 
-I love to work as a front-end, so, I'm currently improving my skills with ReactJS and NextJS, with the aim of specializing, also, I'm learning Ruby and Ruby on Rails which are widely used in my current company and because I think it's important to explore back-end horizons as well.
+I love to work as a front-end, so, I'm currently improving my skills with NextJS, TypeScript and microfrontend, with the aim of specializing, also, I'm learning Ruby and Ruby on Rails  because I think it's important to explore back-end horizons as well.
 
 My main stacks are:
 - ReactJS
@@ -27,9 +27,9 @@ I hope you like my profile and portfolio!
 #### PT/BR
 ### Meu nome é Danielle Silva
 
-Sou desenvolvedora full-stack e atuo como Desenvolvedora Front-end na [Inteligov](https://www.inteligov.com.br/)!
+Sou desenvolvedora full-stack e atuo como Desenvolvedora Front-end na [Serasa Experian](https://www.serasaexperian.com.br/)!
 
-Amo trabalhar como front-end, então, atualmente estou aprimorando minhas habilidades com ReactJS e NextJS, com o objetivo de me especializar em Fron-end, além disso, estou aprendendo Ruby e Ruby on Rails que são muito utilizados na minha atual empresa e por achar importante explorar os horizontes de back-end também.
+Amo trabalhar como front-end, então, atualmente estou aprimorando minhas habilidades com NextJS, TypeScript e microfrontend, com o objetivo de me especializar em Fron-end, além disso, estou aprendendo Ruby e Ruby on Rails para explorar os horizontes de back-end também.
 
 Minhas principais habilidades são:
 - ReactJS
